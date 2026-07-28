@@ -1,4 +1,4 @@
-# 🗺️ Noor Prayer Hub
+# 🗺️ aladhan app
 
 A cross-platform Islamic platform providing accurate, real-time prayer timings, a dynamic next-prayer countdown, and an interactive Hijri calendar. Built with a unified API architecture, this project begins as a responsive web application and scales into a native mobile app.
 
@@ -49,5 +49,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone the repository:
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone [https://github.com/tahar-irki/aladhan.git]
+   cd aladhan
