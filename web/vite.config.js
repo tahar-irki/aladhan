@@ -12,6 +12,7 @@ export default defineConfig({
     tailwindcss(),
     vuetify({ autoImport: true }),
   ],
+  base: '/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
