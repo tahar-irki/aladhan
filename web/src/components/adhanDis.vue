@@ -2,7 +2,7 @@
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 
 const props = defineProps({
-  cityy:string,
+  cityy:String,
   timings: {
     type: Object,
     default: () => null
